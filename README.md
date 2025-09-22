@@ -5,9 +5,9 @@ This project was created for learning and practicing frontend development.
 
 ---
 
-Author: Le Hong Phuc
-GitHub: lehongphuc-12
-Email: phucle682004@gmail.com
+Author: Le Hong Phuc.
+GitHub: lehongphuc-12.
+Email: phucle682004@gmail.com.
 
 ---
 
@@ -19,5 +19,9 @@ Email: phucle682004@gmail.com
     cd Cofffestyle
    ```
 2. Install dependencies and start the development server:
+
+```bash
    npm install
    npm run dev
+
+```
