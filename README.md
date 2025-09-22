@@ -1,12 +1,23 @@
-# React + Vite
+# Cofffestyle
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Cofffestyle is an online coffee shop website built with **Vite + React**.  
+This project was created for learning and practicing frontend development.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Author: Le Hong Phuc
+GitHub: lehongphuc-12
+Email: phucle682004@gmail.com
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Installation & Usage
+
+1. Clone the repository:
+   ```bash
+    git clone https://github.com/lehongphuc-12/Cofffestyle.git
+    cd Cofffestyle
+   ```
+2. Install dependencies and start the development server:
+   npm install
+   npm run dev
